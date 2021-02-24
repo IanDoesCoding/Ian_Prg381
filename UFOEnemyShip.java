@@ -8,5 +8,6 @@ public class UFOEnemyShip extends EnemyShip {
     setamtDamage(20.0);
  }
     
+    //comment
     //comment 
 }
